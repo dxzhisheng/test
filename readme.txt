@@ -5,3 +5,4 @@ dx
 Creating a new branch is quick AND simple.
 update
 stash test
+-----------------------------------
